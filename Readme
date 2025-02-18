@@ -1,0 +1,4 @@
+to run the code run the next comands :  
+npm install
+npm i express bcrypt mongoose jsonwebtoken
+npm run dev
